@@ -1,0 +1,4 @@
+flask
+pandas
+watchdog
+cert-tools==3.0.2
